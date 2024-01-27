@@ -7,7 +7,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-size: 120%;
     background: #222;
-    background-image: url(https://source.unsplash.com/1600x900/?skyline);
+    background-image: url(https://source.unsplash.com/1600x900/?landscape) !important;
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
